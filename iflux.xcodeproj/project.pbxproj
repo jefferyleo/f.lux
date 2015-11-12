@@ -11,7 +11,6 @@
 		24208AE41BCDE89E00D78C93 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 24208AE31BCDE89E00D78C93 /* AppDelegate.m */; };
 		24208AE71BCDE89E00D78C93 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24208AE61BCDE89E00D78C93 /* ViewController.m */; };
 		24208AF91BCDEA1D00D78C93 /* iflux in Resources */ = {isa = PBXBuildFile; fileRef = 24208AF81BCDEA1D00D78C93 /* iflux */; };
-		24208AFB1BCDEA2500D78C93 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 24208AFA1BCDEA2500D78C93 /* Info.plist */; };
 		24208B051BCDEA3200D78C93 /* AppIcon29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24208AFC1BCDEA3200D78C93 /* AppIcon29x29@2x.png */; };
 		24208B061BCDEA3200D78C93 /* AppIcon29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24208AFD1BCDEA3200D78C93 /* AppIcon29x29@3x.png */; };
 		24208B071BCDEA3200D78C93 /* AppIcon40x40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24208AFE1BCDEA3200D78C93 /* AppIcon40x40@2x.png */; };
@@ -183,7 +182,6 @@
 				24208B0C1BCDEA3200D78C93 /* org.herf.flux@2x.png in Resources */,
 				24208AF91BCDEA1D00D78C93 /* iflux in Resources */,
 				24208B071BCDEA3200D78C93 /* AppIcon40x40@2x.png in Resources */,
-				24208AFB1BCDEA2500D78C93 /* Info.plist in Resources */,
 				24208B051BCDEA3200D78C93 /* AppIcon29x29@2x.png in Resources */,
 				24208B061BCDEA3200D78C93 /* AppIcon29x29@3x.png in Resources */,
 				24208B0F1BCDEA3E00D78C93 /* en.lproj in Resources */,
