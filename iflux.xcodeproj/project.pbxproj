@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D1A6A241BF68C08009D187E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24208AEB1BCDE89E00D78C93 /* Assets.xcassets */; };
 		24208AE11BCDE89E00D78C93 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 24208AE01BCDE89E00D78C93 /* main.m */; };
 		24208AE41BCDE89E00D78C93 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 24208AE31BCDE89E00D78C93 /* AppDelegate.m */; };
 		24208AE71BCDE89E00D78C93 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24208AE61BCDE89E00D78C93 /* ViewController.m */; };
@@ -161,6 +162,7 @@
 				24208B0C1BCDEA3200D78C93 /* org.herf.flux@2x.png in Resources */,
 				24208B0D1BCDEA3200D78C93 /* LaunchScreen.storyboardc in Resources */,
 				D908D5A31BF4D6B0007EB36F /* en.lproj in Resources */,
+				1D1A6A241BF68C08009D187E /* Assets.xcassets in Resources */,
 				24208AF91BCDEA1D00D78C93 /* iflux in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
