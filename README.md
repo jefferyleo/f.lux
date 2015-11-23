@@ -40,4 +40,4 @@ There are build errors
 ----------------------
 
 We are building the binary twice, once using source code, and again by splicing.
-This duplication is reported as an error by XCode.
+This duplication is reported as an error by Xcode.
