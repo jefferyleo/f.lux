@@ -17,12 +17,18 @@ How do I get this on my phone?
 
 1.  Download (click releases above for file), then open with Xcode
 
-2.  Plug in your phone
+2.  In the Project Editor, go to General > Identity > Bundle Identifier and
+    append some characters to the identifier string to make it unique
+    (anything but `com.justgetflux.iflux`) or you may get an error saying "An
+    App ID with Identifier 'com.justgetflux.iflux' is not available. Please
+    enter a different string."
 
-3.  Select your phone from the device menu (next to the "Play" and "Stop"
+3.  Plug in your phone
+
+4.  Select your phone from the device menu (next to the "Play" and "Stop"
     buttons)
 
-4.  Click "Play"
+5.  Click "Play"
 
 How does it work?
 -----------------
